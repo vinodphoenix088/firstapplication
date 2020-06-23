@@ -1,0 +1,17 @@
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\DALlayer.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\DALlayer.pdb
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\businessLogicalLayer.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\System.Security.Permissions.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\businessLogicalLayer.pdb
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\System.Security.Permissions.xml
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\obj\Debug\DALlayer.csprojAssemblyReference.cache
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\obj\Debug\DALlayer.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\obj\Debug\DALlayer.csproj.CopyComplete
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\obj\Debug\DALlayer.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\DALlayer\obj\Debug\DALlayer.pdb
