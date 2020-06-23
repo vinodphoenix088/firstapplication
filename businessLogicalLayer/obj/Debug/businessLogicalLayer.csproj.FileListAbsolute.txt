@@ -1,0 +1,15 @@
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\bin\Debug\businessLogicalLayer.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\bin\Debug\businessLogicalLayer.pdb
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\bin\Debug\System.Security.Permissions.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\bin\Debug\System.Security.Permissions.xml
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\obj\Debug\businessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\obj\Debug\businessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\obj\Debug\businessLogicalLayer.csproj.CopyComplete
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\obj\Debug\businessLogicalLayer.dll
+C:\Users\Phoenix\source\repos\CRUDByApi\businessLogicalLayer\obj\Debug\businessLogicalLayer.pdb
