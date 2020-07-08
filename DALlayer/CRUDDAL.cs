@@ -20,14 +20,13 @@ namespace DALlayer
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = Con;
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.CommandText = "Insertion";
+            cmd.CommandText = "InsertionRegistration";
             cmd.Parameters.Add("@firstName", SqlDbType.VarChar).Value = data.firstName;
             cmd.Parameters.Add("@lastName", SqlDbType.VarChar).Value = data.lastName;
             cmd.Parameters.Add("@gender", SqlDbType.VarChar).Value = data.gender;
             cmd.Parameters.Add("@trainingType", SqlDbType.VarChar).Value = data.trainigType;
            
-       //hlo guys??
-       //hwdkhf judh hurfnv
+       
             try
             {
                 Con.Open();
